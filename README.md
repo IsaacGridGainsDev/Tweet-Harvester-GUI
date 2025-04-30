@@ -112,4 +112,7 @@ MIT
 
 ## Contributors
 
+Isaac T. Akinladejo
+
+
 - Isaac Tolulope Akinladejo
